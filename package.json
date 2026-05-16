@@ -1,6 +1,7 @@
 {
   "name": "dexze-dashboard",
   "version": "0.1.0",
+  "description": "Dexze Admin Dashboard for managing works and projects",
   "private": true,
   "scripts": {
     "dev": "next dev",
